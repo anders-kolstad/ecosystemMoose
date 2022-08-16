@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisioDocument>
+	<DocumentProperties>
+		<Title></Title>
+		<HyperlinkBase href=""></HyperlinkBase>
+	</DocumentProperties>
+	<Pages>
+		<Page ID="79" Name="home" NameU="what are scenarioes">
+			<PageProps>
+				<PageScale Unit="MM">0.039370078740157</PageScale>
+				<DrawingScale Unit="MM">0.039370078740157</DrawingScale>
+			</PageProps>
+			<Layer IX="0">
+				<Name>Connector</Name>
+				<NameUniv>Connector</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Shapes>
+				<Shape ID="25" UniqueID="{FEF0698B-EBFB-4918-8C52-7635508EC914}" Name="Sheet.25" NameU="Sheet.25">
+					<XForm>
+						<PinX Unit="MM">4.741602024754832</PinX>
+						<PinY Unit="MM">3.427400025651982</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="24" UniqueID="{47CB48F9-C5F3-46F8-8513-405E53CF8EB8}" Name="Sheet.24" NameU="Sheet.24">
+					<XForm>
+						<PinX Unit="MM">5.036877615306013</PinX>
+						<PinY Unit="MM">7.118515368230193</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="1" UniqueID="{447A37DA-87E6-460E-90BB-4AB924A8FCF0}" Name="Sheet.1" NameU="Sheet.1">
+					<XForm>
+						<PinX Unit="MM">7.276355543252822</PinX>
+						<PinY Unit="MM">10.207755438830898</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/knowledge-map/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/knowledge-map/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="18" UniqueID="{01E6A1F7-EF71-424F-B23B-20A5D4A12671}" Name="Sheet.18" NameU="Sheet.18">
+					<Text>Knowledge map</Text>
+					<XForm>
+						<PinX Unit="MM">7.257972882931436</PinX>
+						<PinY Unit="MM">12.511998658428450</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="19" UniqueID="{82C1FB12-85A0-402A-ACA4-9C3DA0402A2D}" Name="Sheet.19" NameU="Sheet.19">
+					<Text>Management problems</Text>
+					<XForm>
+						<PinX Unit="MM">11.138049426006093</PinX>
+						<PinY Unit="MM">3.860470891793715</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="20" UniqueID="{D92073A2-9EA2-48AD-9055-6629575DB860}" Name="Sheet.20" NameU="Sheet.20">
+					<XForm>
+						<PinX Unit="MM">7.274803487962658</PinX>
+						<PinY Unit="MM">5.619132248067437</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/scenarios/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/scenarios/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="22" UniqueID="{5F895196-7D62-4769-A626-77B3687551DA}" Name="Sheet.22" NameU="Sheet.22">
+					<Text>Scenarios</Text>
+					<XForm>
+						<PinX Unit="MM">7.457149115811807</PinX>
+						<PinY Unit="MM">3.870860218127922</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="23" UniqueID="{8C8015BD-6496-4CF8-8FD9-A98291252B34}" Name="Dynamic connector" NameU="Dynamic connector" Master="4">
+					<XForm>
+						<PinX Unit="MM">7.311329715085587</PinX>
+						<PinY Unit="MM">7.639340217617628</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="26" UniqueID="{9DD071AA-F78F-4AE3-9995-E64DE3694C2D}" Name="Sheet.26" NameU="Sheet.26">
+					<XForm>
+						<PinX Unit="MM">3.716991635496845</PinX>
+						<PinY Unit="MM">5.644808956531655</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="27" UniqueID="{AB00BFBF-43E5-4304-B42A-5E056D3E9D37}" Name="Sheet.27" NameU="Sheet.27">
+					<Text>Summaries </Text>
+					<XForm>
+						<PinX Unit="MM">3.638655582037404</PinX>
+						<PinY Unit="MM">3.899840970533870</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="28" UniqueID="{507C5C39-7746-4655-9D11-9E86DAD71D80}" Name="Dynamic connector.28" NameU="Dynamic connector.28" Master="4">
+					<XForm>
+						<PinX Unit="MM">4.918341466767936</PinX>
+						<PinY Unit="MM">7.639340273117421</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="29" UniqueID="{86507DD2-E6A1-494E-AC39-655F8269EFC9}" Name="Sheet.29" NameU="Sheet.29">
+					<XForm>
+						<PinX Unit="MM">11.118858068395744</PinX>
+						<PinY Unit="MM">5.785460531246674</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="30" UniqueID="{EA864B01-F430-442D-AD58-54F778B6F444}" Name="Dynamic connector.30" NameU="Dynamic connector.30" Master="4">
+					<XForm>
+						<PinX Unit="MM">9.508613381437733</PinX>
+						<PinY Unit="MM">7.638673855767285</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="31" UniqueID="{5FD2147E-AF5C-4CAB-AE24-1A352BED278B}" Name="Rectangle" NameU="Rectangle" Master="2">
+					<Text>User feedback
+(commentory fields at the bottom of each page)</Text>
+					<XForm>
+						<PinX Unit="MM">7.535889273292120</PinX>
+						<PinY Unit="MM">2.187656967218495</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="34" UniqueID="{D357F27F-0260-4ABC-B006-996D97225C45}" Name="Dynamic connector.34" NameU="Dynamic connector.34" Master="4">
+					<XForm>
+						<PinX Unit="MM">11.108723918961411</PinX>
+						<PinY Unit="MM">6.134300149978543</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="36" UniqueID="{5A7152E8-0A17-47FA-93DC-78022914C66A}" Name="Dynamic connector.36" NameU="Dynamic connector.36" Master="4">
+					<XForm>
+						<PinX Unit="MM">3.716991635496846</PinX>
+						<PinY Unit="MM">3.223800886728566</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="37" UniqueID="{06DC42E5-3DEA-4DCA-88F4-FDBA0EE9ACA1}" Name="Dynamic connector.37" NameU="Dynamic connector.37" Master="4">
+					<XForm>
+						<PinX Unit="MM">7.457149115811807</PinX>
+						<PinY Unit="MM">3.208288845470551</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="38" UniqueID="{C151EF5E-9BE3-4FA3-9E50-EB5F0B15FEB9}" Name="Dynamic connector.38" NameU="Dynamic connector.38" Master="4">
+					<XForm>
+						<PinX Unit="MM">11.000456202425982</PinX>
+						<PinY Unit="MM">3.215512449099052</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="40" UniqueID="{BE909BA8-25B1-4C74-82A1-E70B680B3F8E}" Name="Rectangle.40" NameU="Rectangle.40" Master="2">
+					<XForm>
+						<PinX Unit="MM">7.731982874290063</PinX>
+						<PinY Unit="MM">7.237261126532707</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="41" UniqueID="{250E1396-90D7-4547-B47C-79AAC9F1F093}" Name="Sheet.41" NameU="Sheet.41">
+					<Text>Knowledge system</Text>
+					<XForm>
+						<PinX Unit="MM">4.090250590825497</PinX>
+						<PinY Unit="MM">13.316384048667446</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="42" UniqueID="{CBC35720-B154-4D61-A2D8-9146DADA0ED4}" Name="Sheet.42" NameU="Sheet.42">
+					<Text>Updating</Text>
+					<XForm>
+						<PinX Unit="MM">12.677239205812768</PinX>
+						<PinY Unit="MM">9.344691334551280</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+	</Pages>
+</VisioDocument>

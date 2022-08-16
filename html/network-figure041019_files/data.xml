@@ -1,0 +1,2966 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisioDocument>
+	<DocumentProperties>
+		<Title></Title>
+		<HyperlinkBase href=""></HyperlinkBase>
+	</DocumentProperties>
+	<Pages>
+		<Page ID="108" Name="3005" NameU="3005">
+			<PageProps>
+				<PageScale Unit="MM">0.039370078740157</PageScale>
+				<DrawingScale Unit="MM">0.039370078740157</DrawingScale>
+			</PageProps>
+			<Layer IX="0">
+				<Name>Connector</Name>
+				<NameUniv>Connector</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Layer IX="1">
+				<Name>Numbers</Name>
+				<NameUniv>Numbers</NameUniv>
+				<Visible>0</Visible>
+			</Layer>
+			<Layer IX="2">
+				<Name>paper fields</Name>
+				<NameUniv>paper fields</NameUniv>
+				<Visible>0</Visible>
+			</Layer>
+			<Layer IX="3">
+				<Name>Legend</Name>
+				<NameUniv>Legend</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Shapes>
+				<Shape ID="524" UniqueID="{B56F3329-9910-48DA-8EF1-1C82B4003B3D}" Name="Sheet.524" NameU="Sheet.524">
+					<XForm>
+						<PinX Unit="MM">2.460629921259840</PinX>
+						<PinY Unit="MM">8.771617924285957</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="506" UniqueID="{1E9552A7-8242-410D-9589-BCBC7C0A68E5}" Name="Sheet.506" NameU="Sheet.506">
+					<XForm>
+						<PinX Unit="MM">-4.311810797821615</PinX>
+						<PinY Unit="MM">7.804479390450435</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="503" UniqueID="{9576938B-0B19-4E2F-A4D5-0220B775AEB1}" Name="Sheet.503" NameU="Sheet.503">
+					<XForm>
+						<PinX Unit="MM">1.396850619501220</PinX>
+						<PinY Unit="MM">14.891093563678769</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="502" UniqueID="{87E23716-2323-4D1A-81EE-375452FFB749}" Name="Sheet.502" NameU="Sheet.502">
+					<XForm>
+						<PinX Unit="MM">1.593701013202008</PinX>
+						<PinY Unit="MM">14.103691988875619</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="493" UniqueID="{848D0BFA-7C71-48E0-9545-0BD78F01D478}" Name="Rectangle.493" NameU="Rectangle.493" Master="2">
+					<Text>Fire</Text>
+					<XForm>
+						<PinX Unit="MM">10.039370078740150</PinX>
+						<PinY Unit="MM">7.468503937007874</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>https://ecosystemmoose.com/forest-fire/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://ecosystemmoose.com/forest-fire/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="330" UniqueID="{2C726727-6671-4676-A987-1D1ED4F9DA8C}" Name="Sheet.330" NameU="Sheet.330">
+					<XForm>
+						<PinX Unit="MM">9.027833870965685</PinX>
+						<PinY Unit="MM">4.417658570670501</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="329" UniqueID="{3DD32008-F95A-4507-B2DC-B5070667C50E}" Name="Sheet.329" NameU="Sheet.329">
+					<XForm>
+						<PinX Unit="MM">7.607830355560624</PinX>
+						<PinY Unit="MM">2.649432277329892</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="328" UniqueID="{6761CC7B-027B-4B89-98F4-89DBA7F7F8C1}" Name="Sheet.328" NameU="Sheet.328">
+					<XForm>
+						<PinX Unit="MM">4.658697543807625</PinX>
+						<PinY Unit="MM">2.496841418528321</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="327" UniqueID="{E6DB080F-DAA4-4BBA-82BA-7BE5BF8F75E2}" Name="Sheet.327" NameU="Sheet.327">
+					<XForm>
+						<PinX Unit="MM">2.416957005492827</PinX>
+						<PinY Unit="MM">4.384800455373795</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="99" UniqueID="{3258D6F4-5143-4CBD-8C62-C831413F3D26}" Name="Sheet.99" NameU="Sheet.99">
+					<XForm>
+						<PinX Unit="MM">5.182400044896760</PinX>
+						<PinY Unit="MM">-4.783227174532437</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="98" UniqueID="{19ED9313-67DC-4136-90B1-3820C858A4B1}" Name="Sheet.98" NameU="Sheet.98">
+					<XForm>
+						<PinX Unit="MM">4.001297682692038</PinX>
+						<PinY Unit="MM">-3.484014576107240</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="97" UniqueID="{38B82A35-1DBD-4743-BA8C-53A616E039EC}" Name="Sheet.97" NameU="Sheet.97">
+					<XForm>
+						<PinX Unit="MM">4.788699257495187</PinX>
+						<PinY Unit="MM">-4.192675993430072</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="494" UniqueID="{83AA5173-5624-424C-A8C2-0F9A46A7781C}" Name="Circle" NameU="Circle" Master="40">
+					<Text>...</Text>
+					<XForm>
+						<PinX Unit="MM">5.366333880016780</PinX>
+						<PinY Unit="MM">6.606263593577294</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Moose</HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/moose/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/moose/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="86" UniqueID="{F41343A5-4921-401A-9950-7A11D142CF76}" Name="Hexagon.103" NameU="Hexagon.103" Master="2">
+					<Text>Spruce
+(forests)</Text>
+					<XForm>
+						<PinX Unit="MM">7.677165354330707</PinX>
+						<PinY Unit="MM">6.675476313867942</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Trees</HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/norwegian-boreal-forest-trees/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/norwegian-boreal-forest-trees/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="13" UniqueID="{3E90C433-5727-4168-8C22-3EFB62BAB851}" Name="Rectangle.13" NameU="Rectangle.13" Master="2">
+					<Text>Carbon storage</Text>
+					<XForm>
+						<PinX Unit="MM">7.265224539502215</PinX>
+						<PinY Unit="MM">2.505941476973560</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Carbon storage</HLURL:Description>
+										<HLURL:Address>https://ecosystemmoose.com/carbon-storage-in-boreal-forests/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://ecosystemmoose.com/carbon-storage-in-boreal-forests/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="14" UniqueID="{DCB0B40A-0102-4DA2-BB51-561E8300A336}" Name="Rectangle.19" NameU="Rectangle.19" Master="2">
+					<Text>(rate of) soil processes</Text>
+					<XForm>
+						<PinX Unit="MM">4.743307312414606</PinX>
+						<PinY Unit="MM">2.412456177476275</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Biophysical processes</HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/soil-processes/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/soil-processes/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="160" UniqueID="{16D2CB24-77B2-4B50-BB88-F71E81F09EEB}" Name="Ellipse.95" NameU="Ellipse.95" Master="2">
+					<Text>Timber products</Text>
+					<XForm>
+						<PinX Unit="MM">9.231286038289587</PinX>
+						<PinY Unit="MM">5.055519968840134</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Timber and pulp</HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/timber-products/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/timber-products/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="24" UniqueID="{6084FEB7-E92A-44C6-A938-3B88D33781FF}" Name="Rectangle.61" NameU="Rectangle.61" Master="2">
+					<Text>Albedo</Text>
+					<XForm>
+						<PinX Unit="MM">8.053612478839396</PinX>
+						<PinY Unit="MM">2.879518176258383</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Albedo</HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/surface-albedo/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/surface-albedo/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="159" UniqueID="{3B613FFC-73B3-42DB-887D-53DE863D2696}" Name="Ellipse.98" NameU="Ellipse.98" Master="2">
+					<Text>Food</Text>
+					<XForm>
+						<PinX Unit="MM">8.640734857187224</PinX>
+						<PinY Unit="MM">3.656272289188443</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Food</HLURL:Description>
+										<HLURL:Address>https://ecosystemmoose.com/food/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://ecosystemmoose.com/food/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="87" UniqueID="{FD4446E1-2209-46D5-9D28-61FE3BCB169A}" Name="Rectangle.87" NameU="Rectangle.87" Master="2">
+					<Text>Predators</Text>
+					<XForm>
+						<PinX Unit="MM">3.228346456692912</PinX>
+						<PinY Unit="MM">7.547244094488192</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/predators/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/predators/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="164" UniqueID="{E0F88BE9-DD8F-4C3D-A22D-B573E8A96554}" Name="Rectangle.164" NameU="Rectangle.164" Master="2">
+					<Text>Traffic safety</Text>
+					<XForm>
+						<PinX Unit="MM">2.238681894623065</PinX>
+						<PinY Unit="MM">5.198489925724894</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Risk of injury</HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/traffic-accidents-with-moose/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/traffic-accidents-with-moose/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="154" UniqueID="{6804F3A0-C420-4FCD-8C30-F8C57F71C70E}" Name="Rectangle.154" NameU="Rectangle.154" Master="2">
+					<Text>Recreation, health and wellbeing</Text>
+					<XForm>
+						<PinX Unit="MM">2.680793345844903</PinX>
+						<PinY Unit="MM">3.800763497033265</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Recreation, health and well-being</HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/recreation-heath-and-well-being/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/recreation-heath-and-well-being/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="172" UniqueID="{EF46BE2E-8FA7-4624-84BD-B67BF82C7789}" Name="Dynamic connector.172" NameU="Dynamic connector.172" Master="4">
+					<XForm>
+						<PinX Unit="MM">6.594488188976374</PinX>
+						<PinY Unit="MM">6.604312899150852</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Moose - Trees</HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/moose-browsing-and-the-impact-on-boreal-tree-species/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/moose-browsing-and-the-impact-on-boreal-tree-species/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="178" UniqueID="{06C9A430-FA6D-4686-A70F-C98255006110}" Name="Dynamic connector.178" NameU="Dynamic connector.178" Master="4">
+					<XForm>
+						<PinX Unit="MM">7.015523408448349</PinX>
+						<PinY Unit="MM">4.871008325766252</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Moose - Food</HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/moose-as-food/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/moose-as-food/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="184" UniqueID="{04BA012E-8C38-4D42-8C17-3D17ACAB00C4}" Name="Sheet.184" NameU="Sheet.184">
+					<XForm>
+						<PinX Unit="MM">8.758845093407702</PinX>
+						<PinY Unit="MM">2.575661640593256</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="197" UniqueID="{AFB0CEE1-C60C-46FC-B061-3E22D486C259}" Name="Sheet.197" NameU="Sheet.197">
+					<Text>Climate
+(regulating NCPs)</Text>
+					<XForm>
+						<PinX Unit="MM">8.446326901706939</PinX>
+						<PinY Unit="MM">2.057414270756050</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="214" UniqueID="{33D77062-8869-4F59-8593-70471865F326}" Name="Sheet.214" NameU="Sheet.214">
+					<XForm>
+						<PinX Unit="MM">5.418620517337708</PinX>
+						<PinY Unit="MM">-13.271221890653450</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="215" UniqueID="{D860FB79-CF35-4E53-92B1-DC8409517493}" Name="Sheet.215" NameU="Sheet.215">
+					<XForm>
+						<PinX Unit="MM">4.237518155132986</PinX>
+						<PinY Unit="MM">-11.972009292228250</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="216" UniqueID="{076A52E5-08CD-4259-8E22-E8102523CC33}" Name="Sheet.216" NameU="Sheet.216">
+					<XForm>
+						<PinX Unit="MM">5.024919729936137</PinX>
+						<PinY Unit="MM">-12.680670709551091</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="217" UniqueID="{0F07EE1F-A06C-4CA5-92F7-5627E254D5F2}" Name="Sheet.217" NameU="Sheet.217">
+					<XForm>
+						<PinX Unit="MM">13.522834871469721</PinX>
+						<PinY Unit="MM">-11.589676216047931</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="267" UniqueID="{96A2EB48-E4D5-4936-A18D-0A806E0B8DF0}" Name="Sheet.267" NameU="Sheet.267">
+					<XForm>
+						<PinX Unit="MM">7.254427032503335</PinX>
+						<PinY Unit="MM">-14.576363060632900</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="311" UniqueID="{D5FA8DFB-9C31-4ACD-9C90-06D7D3A99114}" Name="Rectangle.311" NameU="Rectangle.311" Master="2">
+					<Text>Biodiversity</Text>
+					<XForm>
+						<PinX Unit="MM">4.009352323501158</PinX>
+						<PinY Unit="MM">2.991782159703655</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Biodiversity</HLURL:Description>
+										<HLURL:Address>https://ecosystemmoose.com/biodiversity-and-understory-vegetation-in-norwegian-boreal-forests/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://ecosystemmoose.com/biodiversity-and-understory-vegetation-in-norwegian-boreal-forests/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="185" UniqueID="{B7537FE0-CF77-4E9B-9937-BF8C1EF7CA41}" Name="Sheet.185" NameU="Sheet.185">
+					<XForm>
+						<PinX Unit="MM">1.574803149606297</PinX>
+						<PinY Unit="MM">5.938797325497864</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="195" UniqueID="{84215964-4139-43FC-9204-C2C4EA8EDECF}" Name="Sheet.195" NameU="Sheet.195">
+					<Text>Good quality of life
+(Non-material NCPs)</Text>
+					<XForm>
+						<PinX Unit="MM">1.480742372340986</PinX>
+						<PinY Unit="MM">4.559665354945410</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="183" UniqueID="{BE40EEC2-38AB-4A49-97D5-801FEB4D4AFA}" Name="Sheet.183" NameU="Sheet.183">
+					<XForm>
+						<PinX Unit="MM">10.030484257696830</PinX>
+						<PinY Unit="MM">5.622011625073361</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="198" UniqueID="{A69A2456-4E22-414C-89C3-D4807A953549}" Name="Sheet.198" NameU="Sheet.198">
+					<Text>Material NCPs</Text>
+					<XForm>
+						<PinX Unit="MM">9.973896198051138</PinX>
+						<PinY Unit="MM">5.045669974356484</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="314" UniqueID="{9B2170F5-D17A-4728-9C15-0A35313033DF}" Name="Sheet.314" NameU="Sheet.314">
+					<XForm>
+						<PinX Unit="MM">4.174794348115146</PinX>
+						<PinY Unit="MM">2.468295006777431</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="315" UniqueID="{7D2922D4-631A-44EC-A526-1C27FC52C22E}" Name="Sheet.315" NameU="Sheet.315">
+					<XForm>
+						<PinX Unit="MM">4.349606525013030</PinX>
+						<PinY Unit="MM">2.127535150576575</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="194" UniqueID="{1E1C5276-96B5-4450-AC9C-053DD6A05B6A}" Name="Sheet.194" NameU="Sheet.194">
+					<Text>Nature</Text>
+					<XForm>
+						<PinX Unit="MM">4.349606525013030</PinX>
+						<PinY Unit="MM">2.127535150576575</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="324" UniqueID="{DA74B391-AC97-498C-BF29-2B85960B1351}" Name="Rectangle.324" NameU="Rectangle.324" Master="2">
+					<Text>Supporting identities</Text>
+					<XForm>
+						<PinX Unit="MM">2.287092558443328</PinX>
+						<PinY Unit="MM">4.525164339884581</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="325" UniqueID="{1889EFE4-3F8B-4CC5-BD85-9687567972D9}" Name="Ellipse.325" NameU="Ellipse.325" Master="2">
+					<Text>Bio-energy</Text>
+					<XForm>
+						<PinX Unit="MM">8.940425615026976</PinX>
+						<PinY Unit="MM">4.268118394036981</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Bio-energy</HLURL:Description>
+										<HLURL:Address>https://ecosystemmoose.com/bioenergy/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://ecosystemmoose.com/bioenergy/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="334" UniqueID="{C6A579F0-AAA6-4844-993B-CDBB8411CD58}" Name="Rectangle.334" NameU="Rectangle.334" Master="2">
+					<Text>The moose management hierarchy
+</Text>
+					<XForm>
+						<PinX Unit="MM">3.017716535433069</PinX>
+						<PinY Unit="MM">9.435453752029204</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/norwegian-moose-management/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/norwegian-moose-management/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="335" UniqueID="{020FD822-50A0-4951-BD89-FAC18318CCFB}" Name="Rectangle.335" NameU="Rectangle.335" Master="2">
+					<Text>Hunters</Text>
+					<XForm>
+						<PinX Unit="MM">5.374015748031494</PinX>
+						<PinY Unit="MM">8.279491940033989</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Hunters</HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/hunters/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/hunters/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="336" UniqueID="{CB167ADF-0A47-4F0F-80F3-AF4BF275DC32}" Name="Hexagon.336" NameU="Hexagon.336" Master="2">
+					<Text>Foresters</Text>
+					<XForm>
+						<PinX Unit="MM">7.632170978627670</PinX>
+						<PinY Unit="MM">8.279491940033987</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Foresters</HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/foresters/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/foresters/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="342" UniqueID="{865F18C1-3DD2-4E5C-9028-6FC32D8D6AF0}" Name="Dynamic connector.342" NameU="Dynamic connector.342" Master="4">
+					<XForm>
+						<PinX Unit="MM">7.654668166479189</PinX>
+						<PinY Unit="MM">7.490139670804394</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/forestry/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/forestry/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="357" UniqueID="{C1A41FCF-5201-483A-AAFD-3A1280B2A002}" Name="Dynamic connector.357" NameU="Dynamic connector.357" Master="4">
+					<XForm>
+						<PinX Unit="MM">5.370174814024137</PinX>
+						<PinY Unit="MM">7.663254133883863</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Hunters - moose</HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/moose-hunting-and-the-effects-on-wild-populations/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/moose-hunting-and-the-effects-on-wild-populations/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="366" UniqueID="{03E98399-3EDB-4FCD-AF97-604C17C4C5AB}" Name="Rectangle.268" NameU="Rectangle.268" Master="2">
+					<Text>Hunting licenses/
+regulations</Text>
+					<XForm>
+						<PinX Unit="MM">6.109428846807957</PinX>
+						<PinY Unit="MM">12.012961507708100</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Hunting licenses and regulations</HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/hunting-licenses-and-regulations/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/hunting-licenses-and-regulations/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="367" UniqueID="{DFC21AE6-5BB8-4CCC-B746-D6442DB6DF83}" Name="Hexagon.269" NameU="Hexagon.269" Master="2">
+					<Text>Timber prices</Text>
+					<XForm>
+						<PinX Unit="MM">7.677165367546494</PinX>
+						<PinY Unit="MM">11.382718540458960</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/timber-prices/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/timber-prices/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="374" UniqueID="{D8F2CDB3-C164-4664-BF2B-6358ECE5FB06}" Name="Dynamic connector.374" NameU="Dynamic connector.374" Master="4">
+					<XForm>
+						<PinX Unit="MM">7.874015748031495</PinX>
+						<PinY Unit="MM">7.151471197679229</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Hunting licenses and regulations - Hunters</HLURL:Description>
+										<HLURL:Address>https://moose-trees-wolf.org/textual-review/#hrefhuntinglicenseshunters</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://moose-trees-wolf.org/textual-review/#hrefhuntinglicenseshunters</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="397" UniqueID="{935E9C96-7D8F-4433-BFAF-F8ABD5F7A758}" Name="Hexagon.397" NameU="Hexagon.397" Master="2">
+					<Text>Protected areas</Text>
+					<XForm>
+						<PinX Unit="MM">9.048051494584247</PinX>
+						<PinY Unit="MM">10.621689930445250</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Protected areas</HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/forest-protection-in-norway/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/forest-protection-in-norway/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="399" UniqueID="{4DAF8361-6782-4326-AD15-E558B6F24D34}" Name="Dynamic connector.399" NameU="Dynamic connector.399" Master="4">
+					<XForm>
+						<PinX Unit="MM">7.874015748031495</PinX>
+						<PinY Unit="MM">7.151471197679229</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Timber prices - Foresters</HLURL:Description>
+										<HLURL:Address>https://moose-trees-wolf.org/textual-review/#hreftimberpricesforesters</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://moose-trees-wolf.org/textual-review/#hreftimberpricesforesters</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="402" UniqueID="{9B18915D-0FBC-4C54-AF21-2484F2AC5E61}" Name="Rectangle.402" NameU="Rectangle.402" Master="2">
+					<Text>Livestock</Text>
+					<XForm>
+						<PinX Unit="MM">3.228346456692912</PinX>
+						<PinY Unit="MM">7.221598477830615</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Livestock</HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/interactions-between-moose-and-livestock/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/interactions-between-moose-and-livestock/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="406" UniqueID="{6FFAADA3-295F-4055-8F61-8AE5DA607BBF}" Name="Dynamic connector.406" NameU="Dynamic connector.406" Master="4">
+					<XForm>
+						<PinX Unit="MM">4.258085860830639</PinX>
+						<PinY Unit="MM">7.141611824258681</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/interactions-between-moose-and-livestock/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/interactions-between-moose-and-livestock/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="411" UniqueID="{5F891273-EC84-43DA-BE9A-71F9C954EB04}" Name="Dynamic connector.411" NameU="Dynamic connector.411" Master="4">
+					<XForm>
+						<PinX Unit="MM">4.506134202037387</PinX>
+						<PinY Unit="MM">10.162572993405689</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/hunting-licenses-and-regulations/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/hunting-licenses-and-regulations/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="412" UniqueID="{94A58B7C-D99F-4470-B653-DB3AE08E43A9}" Name="Hexagon.412" NameU="Hexagon.412" Master="2">
+					<Text>Forest certifi-
+cation</Text>
+					<XForm>
+						<PinX Unit="MM">8.359147631959813</PinX>
+						<PinY Unit="MM">11.029451460254020</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/forest-certifications/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/forest-certifications/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="414" UniqueID="{8523BDCE-67C1-403C-98BA-0CB0E6D94E2F}" Name="Dynamic connector.414" NameU="Dynamic connector.414" Master="4">
+					<XForm>
+						<PinX Unit="MM">7.746241991533953</PinX>
+						<PinY Unit="MM">9.536722846734460</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/forest-certifications/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/forest-certifications/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="417" UniqueID="{C4E895F3-BF4F-49B6-BF87-1F9082A05AC2}" Name="Hexagon.417" NameU="Hexagon.417" Master="2">
+					<Text>Environmental law</Text>
+					<XForm>
+						<PinX Unit="MM">6.889763792743346</PinX>
+						<PinY Unit="MM">11.724373842576281</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/environmental-law/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/environmental-law/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="418" UniqueID="{572A7F55-0066-46B8-A2B3-2412D98B94C2}" Name="Dynamic connector.418" NameU="Dynamic connector.418" Master="4">
+					<XForm>
+						<PinX Unit="MM">4.997873450242298</PinX>
+						<PinY Unit="MM">10.368999730247859</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/environmental-law/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/environmental-law/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="419" UniqueID="{1B2269EC-F7D9-4804-BA10-1ACE6A7B8FB2}" Name="Dynamic connector.419" NameU="Dynamic connector.419" Master="4">
+					<XForm>
+						<PinX Unit="MM">6.699728196884097</PinX>
+						<PinY Unit="MM">9.869543712481400</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/environmental-law/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/environmental-law/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="420" UniqueID="{6CCA001F-A77B-4CF4-9C6E-73F6269924DB}" Name="Dynamic connector.420" NameU="Dynamic connector.420" Master="4">
+					<XForm>
+						<PinX Unit="MM">5.442209602187559</PinX>
+						<PinY Unit="MM">10.025234149997489</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/hunting-licenses-and-regulations/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/hunting-licenses-and-regulations/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="423" UniqueID="{6DEAF2EB-9D3E-4AA1-9742-7EF4AF0EE609}" Name="Dynamic connector.423" NameU="Dynamic connector.423" Master="4">
+					<XForm>
+						<PinX Unit="MM">8.373472525457732</PinX>
+						<PinY Unit="MM">9.314127057745104</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/how-forest-protection-affects-foresters/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/how-forest-protection-affects-foresters/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="424" UniqueID="{036ECE13-0A02-4BD9-A1D6-59B56F42A026}" Name="Dynamic connector.424" NameU="Dynamic connector.424" Master="4">
+					<XForm>
+						<PinX Unit="MM">7.279456865660471</PinX>
+						<PinY Unit="MM">9.696653913498629</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/how-timber-prices-affect-forestry/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/how-timber-prices-affect-forestry/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="425" UniqueID="{60577ABA-3EDD-4612-9F68-B7E52AC1F5E1}" Name="Ellipse.425" NameU="Ellipse.425" Master="2">
+					<Text>NGO’s</Text>
+					<XForm>
+						<PinX Unit="MM">1.377952755905510</PinX>
+						<PinY Unit="MM">9.145155342459907</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>NGO's</HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/ngos/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/ngos/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="426" UniqueID="{F011F8C4-4ED4-4C70-9F79-17529CD52F57}" Name="Rectangle.426" NameU="Rectangle.426" Master="2">
+					<Text>Forest management
+hierarchy</Text>
+					<XForm>
+						<PinX Unit="MM">11.004952448735940</PinX>
+						<PinY Unit="MM">9.512639787522975</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/forest-management/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/forest-management/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="427" UniqueID="{814EA6E4-13D6-47C5-9FF0-8F3DFFC5DC5A}" Name="Dynamic connector.427" NameU="Dynamic connector.427" Master="4">
+					<XForm>
+						<PinX Unit="MM">9.367168424169897</PinX>
+						<PinY Unit="MM">8.428546178739111</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/forest-management/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/forest-management/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="429" UniqueID="{1C8315F6-9003-4CAF-B6F0-70FF3204BF38}" Name="Rectangle.429" NameU="Rectangle.429" Master="2">
+					<Text>Red deer</Text>
+					<XForm>
+						<PinX Unit="MM">3.228346456692912</PinX>
+						<PinY Unit="MM">6.882421254695647</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/associations-between-red-deer-and-moose/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/associations-between-red-deer-and-moose/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="437" UniqueID="{5C0F7951-B7B7-4809-8769-3B94624C642F}" Name="Dynamic connector.437" NameU="Dynamic connector.437" Master="4">
+					<XForm>
+						<PinX Unit="MM">6.401446028868936</PinX>
+						<PinY Unit="MM">4.291299517008582</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/effects-on-moose-on-the-carbon-storage-of-boreal-forests/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/effects-on-moose-on-the-carbon-storage-of-boreal-forests/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="439" UniqueID="{B7FA2671-D011-4414-B906-6A3486C7C692}" Name="Dynamic connector.439" NameU="Dynamic connector.439" Master="4">
+					<XForm>
+						<PinX Unit="MM">7.530551226690744</PinX>
+						<PinY Unit="MM">4.523517018801761</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>https://ecosystemmoose.com/effect-of-trees-on-carbon-storage/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://ecosystemmoose.com/effect-of-trees-on-carbon-storage/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="440" UniqueID="{3D2CAC2D-2F42-4146-B71B-15D49627B62F}" Name="Dynamic connector.440" NameU="Dynamic connector.440" Master="4">
+					<XForm>
+						<PinX Unit="MM">4.498418680664964</PinX>
+						<PinY Unit="MM">4.585687675484194</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/effects-of-moose-and-biodiversity-and-vegetation-in-boreal-forests/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/effects-of-moose-and-biodiversity-and-vegetation-in-boreal-forests/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="442" UniqueID="{052E6326-A0EE-4E3B-9309-C1869FC4FB4F}" Name="Dynamic connector.442" NameU="Dynamic connector.442" Master="4">
+					<XForm>
+						<PinX Unit="MM">5.054820596215693</PinX>
+						<PinY Unit="MM">4.269745494215608</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/effects-of-moose-and-trees-on-soil-processes/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/effects-of-moose-and-trees-on-soil-processes/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="443" UniqueID="{B4115A2E-D163-4488-9E4C-DB4D2FA07972}" Name="Dynamic connector.443" NameU="Dynamic connector.443" Master="4">
+					<XForm>
+						<PinX Unit="MM">4.218103224803402</PinX>
+						<PinY Unit="MM">6.879110253131428</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/associations-between-red-deer-and-moose/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/associations-between-red-deer-and-moose/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="444" UniqueID="{801B3D16-86DE-4C23-86AB-FA38FAF8F035}" Name="Dynamic connector.444" NameU="Dynamic connector.444" Master="4">
+					<XForm>
+						<PinX Unit="MM">4.312671103919332</PinX>
+						<PinY Unit="MM">7.337013459649359</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/effects-of-predation-on-norwegian-moose-populations/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/effects-of-predation-on-norwegian-moose-populations/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="445" UniqueID="{6C817921-23BD-4D7C-A908-683E46C20636}" Name="Dynamic connector.445" NameU="Dynamic connector.445" Master="4">
+					<XForm>
+						<PinX Unit="MM">6.503093363329582</PinX>
+						<PinY Unit="MM">8.279491940033989</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>https://ecosystemmoose.com/hunters-and-foresters/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://ecosystemmoose.com/hunters-and-foresters/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="446" UniqueID="{E5E69236-1FFE-4F04-A392-6A033F49E07D}" Name="Dynamic connector.446" NameU="Dynamic connector.446" Master="4">
+					<XForm>
+						<PinX Unit="MM">5.841890386011206</PinX>
+						<PinY Unit="MM">2.237697590268430</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/how-soil-processes-affect-carbon-storage/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/how-soil-processes-affect-carbon-storage/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="447" UniqueID="{C206A087-0304-406B-8D9C-DE597CEE6DDC}" Name="Dynamic connector.447" NameU="Dynamic connector.447" Master="4">
+					<XForm>
+						<PinX Unit="MM">6.035539803298970</PinX>
+						<PinY Unit="MM">4.512072672891391</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/effects-of-moose-and-trees-on-soil-processes/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/effects-of-moose-and-trees-on-soil-processes/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="448" UniqueID="{950BDCF9-4F80-43AF-B44E-6999595EF919}" Name="Dynamic connector.448" NameU="Dynamic connector.448" Master="4">
+					<XForm>
+						<PinX Unit="MM">4.168376740583495</PinX>
+						<PinY Unit="MM">2.599934461679927</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>https://ecosystemmoose.com/effects-of-biodiversity-on-soil-processes/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://ecosystemmoose.com/effects-of-biodiversity-on-soil-processes/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="449" UniqueID="{0174DBD1-EE49-4EDC-BACC-214077975AE0}" Name="Dynamic connector.449" NameU="Dynamic connector.449" Master="4">
+					<XForm>
+						<PinX Unit="MM">6.432836049156594</PinX>
+						<PinY Unit="MM">7.555499587146667</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/effects-of-moose-activity-on-the-behaviour-of-foresters/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/effects-of-moose-activity-on-the-behaviour-of-foresters/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="451" UniqueID="{59DDD207-D26E-4F2A-B84C-CB5F06F70019}" Name="Dynamic connector.451" NameU="Dynamic connector.451" Master="4">
+					<XForm>
+						<PinX Unit="MM">3.713632192994991</PinX>
+						<PinY Unit="MM">5.754840946189168</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/traffic-accidents-with-moose/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/traffic-accidents-with-moose/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="453" UniqueID="{6B9B52D1-624E-4452-A9EC-E8AEB8144680}" Name="Rectangle.453" NameU="Rectangle.453" Master="2">
+					<Text>Forest productivity</Text>
+					<XForm>
+						<PinX Unit="MM">5.982452306376031</PinX>
+						<PinY Unit="MM">2.259706129204262</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>https://ecosystemmoose.com/forest-productivity/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://ecosystemmoose.com/forest-productivity/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="456" UniqueID="{5BED3C04-1899-42E8-87D6-27CF829F7E64}" Name="Dynamic connector.456" NameU="Dynamic connector.456" Master="4">
+					<XForm>
+						<PinX Unit="MM">5.333712589585916</PinX>
+						<PinY Unit="MM">2.319118859424195</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/soil-processes-and-forest-productivity/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/soil-processes-and-forest-productivity/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="458" UniqueID="{BF9CBC9D-F62B-4FDC-83EA-BA30F3D80D86}" Name="Dynamic connector.458" NameU="Dynamic connector.458" Master="4">
+					<XForm>
+						<PinX Unit="MM">6.725907246210339</PinX>
+						<PinY Unit="MM">4.395880559572436</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>https://ecosystemmoose.com/effect-of-forest-productivity-on-trees-and-tree-species-composition/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://ecosystemmoose.com/effect-of-forest-productivity-on-trees-and-tree-species-composition/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="464" UniqueID="{2253633A-6B49-44E4-8E1A-E842B798F08F}" Name="Rectangle.464" NameU="Rectangle.464" Master="2">
+					<XForm>
+						<PinX Unit="MM">4.232283464566926</PinX>
+						<PinY Unit="MM">1.281097926932957</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>3</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Red deer</HLURL:Description>
+										<HLURL:Address>https://moose-trees-wolf.org/textual-review/#hrefreddeer</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://moose-trees-wolf.org/textual-review/#hrefreddeer</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="466" UniqueID="{A6956573-BC5B-41ED-8448-DA96FC70F204}" Name="Ellipse.466" NameU="Ellipse.466" Master="2">
+					<XForm>
+						<PinX Unit="MM">1.558895013122301</PinX>
+						<PinY Unit="MM">1.267077815647274</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>3</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>NGO's</HLURL:Description>
+										<HLURL:Address>https://moose-trees-wolf.org/textual-review/#hrefngos</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://moose-trees-wolf.org/textual-review/#hrefngos</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="478" UniqueID="{17341E91-8337-409F-83A6-4FD7C67890B1}" Name="Sheet.478" NameU="Sheet.478">
+					<Text>(dashed line): not yet covered in detail</Text>
+					<XForm>
+						<PinX Unit="MM">2.987120585755440</PinX>
+						<PinY Unit="MM">1.252173428695619</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>3</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="479" UniqueID="{798C1CA3-3953-4511-9780-F5A58D6A9506}" Name="Sheet.479" NameU="Sheet.479">
+					<Text>Only treated according to their direct link to moose or spruce</Text>
+					<XForm>
+						<PinX Unit="MM">6.112204724409446</PinX>
+						<PinY Unit="MM">1.259280089988750</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>3</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="485" UniqueID="{8C1C5C67-300B-4054-B890-1D445C97651C}" Name="Dynamic connector" NameU="Dynamic connector" Master="4">
+					<XForm>
+						<PinX Unit="MM">9.301113318609431</PinX>
+						<PinY Unit="MM">9.721122209847533</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/establishing-forest-protection-in-norway/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/establishing-forest-protection-in-norway/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="487" UniqueID="{D9697747-5E6C-40A0-A60B-98AB886030BC}" Name="Dynamic connector.487" NameU="Dynamic connector.487" Master="4">
+					<XForm>
+						<PinX Unit="MM">7.188940314997013</PinX>
+						<PinY Unit="MM">9.403050778224422</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/hunting-in-protected-areas/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/hunting-in-protected-areas/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="488" UniqueID="{190A400B-68B8-483A-A50A-1993B1685E2F}" Name="Dynamic connector.488" NameU="Dynamic connector.488" Master="4">
+					<XForm>
+						<PinX Unit="MM">4.011574564007640</PinX>
+						<PinY Unit="MM">5.082446208073220</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/the-role-of-moose-in-recreation-and-human-health-and-well-being/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/the-role-of-moose-in-recreation-and-human-health-and-well-being/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="489" UniqueID="{17CF6D72-D6BB-47D4-A696-72C4626F5E04}" Name="Dynamic connector.489" NameU="Dynamic connector.489" Master="4">
+					<XForm>
+						<PinX Unit="MM">3.411695257370419</PinX>
+						<PinY Unit="MM">3.395302070978153</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>https://ecosystemmoose.com/effect-of-biodiversity-on-recreation-heath-and-well-being/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://ecosystemmoose.com/effect-of-biodiversity-on-recreation-heath-and-well-being/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="490" UniqueID="{1E5B9B10-BB58-405B-940D-FEB0960724C2}" Name="Dynamic connector.490" NameU="Dynamic connector.490" Master="4">
+					<XForm>
+						<PinX Unit="MM">7.367366723462020</PinX>
+						<PinY Unit="MM">5.643662349036911</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/forest-browsing-damage/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/forest-browsing-damage/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="492" UniqueID="{5DA69204-6C81-44C5-AEB8-FADFB938FA1E}" Name="Dynamic connector.492" NameU="Dynamic connector.492" Master="4">
+					<XForm>
+						<PinX Unit="MM">3.776936591743173</PinX>
+						<PinY Unit="MM">5.349838335119652</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/moose-and-how-they-can-define-our-culture-and-identities/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/moose-and-how-they-can-define-our-culture-and-identities/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="218" UniqueID="{2C80AF19-D6A3-43DC-8FF7-A521022E891B}" Name="Sheet.218" NameU="Sheet.218">
+					<XForm>
+						<PinX Unit="MM">5.432552838789885</PinX>
+						<PinY Unit="MM">6.636669969623155</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/moose/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/moose/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="497" UniqueID="{BD992331-60D1-43B6-BCD7-F0B284D433EE}" Name="Dynamic connector.497" NameU="Dynamic connector.497" Master="4">
+					<XForm>
+						<PinX Unit="MM">8.809055107314855</PinX>
+						<PinY Unit="MM">7.167940590137651</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>https://ecosystemmoose.com/forest-fire/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://ecosystemmoose.com/forest-fire/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="498" UniqueID="{E330251F-0BFC-49F0-8FC8-DE094C992FA6}" Name="Rectangle.498" NameU="Rectangle.498" Master="2">
+					<Text>CWD</Text>
+					<XForm>
+						<PinX Unit="MM">3.228346456692912</PinX>
+						<PinY Unit="MM">6.532622099877861</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Red deer</HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/cronic-wasting-disease/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/cronic-wasting-disease/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+									<HLURL:Hyperlink ID="2">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/cronic-wasting-disease/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/cronic-wasting-disease/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="499" UniqueID="{8078B9C5-79A1-4A27-8028-DE80E74540DA}" Name="Dynamic connector.499" NameU="Dynamic connector.499" Master="4">
+					<XForm>
+						<PinX Unit="MM">4.204916530687626</PinX>
+						<PinY Unit="MM">6.606579269521641</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/cronic-wasting-disease/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/cronic-wasting-disease/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+									<HLURL:Hyperlink ID="2">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/cronic-wasting-disease/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/cronic-wasting-disease/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="509" UniqueID="{A36360E9-142B-45AF-AE54-3BA51DC5043E}" Name="Ellipse.509" NameU="Ellipse.509" Master="2">
+					<Text>Governance tools and economic drivers</Text>
+					<XForm>
+						<PinX Unit="MM">0.471653769107523</PinX>
+						<PinY Unit="MM">11.140109308190320</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="510" UniqueID="{C23237A2-DBD5-4ECF-AE11-F08816A707AE}" Name="Ellipse.510" NameU="Ellipse.510" Master="2">
+					<Text>Social roles</Text>
+					<XForm>
+						<PinX Unit="MM">0.471653769107536</PinX>
+						<PinY Unit="MM">8.901217298211954</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="511" UniqueID="{3662351E-4FDC-466E-A21F-BEDD9CCCD4E4}" Name="Ellipse.511" NameU="Ellipse.511" Master="2">
+					<Text>Ecological drivers</Text>
+					<XForm>
+						<PinX Unit="MM">0.471653769107522</PinX>
+						<PinY Unit="MM">6.820227421946488</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="512" UniqueID="{EEA67DF8-43B0-4324-B2B9-D5AD512EFBC8}" Name="Ellipse.512" NameU="Ellipse.512" Master="2">
+					<Text>Natures’ contributions to peoples</Text>
+					<XForm>
+						<PinX Unit="MM">0.471653769107533</PinX>
+						<PinY Unit="MM">3.709991201474046</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="513" UniqueID="{11A3CF56-C63F-43A1-AF18-9103413557FA}" Name="Dynamic connector.513" NameU="Dynamic connector.513" Master="4">
+					<XForm>
+						<PinX Unit="MM">7.858125698330711</PinX>
+						<PinY Unit="MM">4.710305368444174</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/on-the-link-between-trees-and-surface-albedo/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/on-the-link-between-trees-and-surface-albedo/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="515" UniqueID="{904C4B69-7586-4FC7-9A2D-8915BDE40AFF}" Name="Ellipse.515" NameU="Ellipse.515" Master="2">
+					<Text>The Norweg. Env. Agency</Text>
+					<XForm>
+						<PinX Unit="MM">3.015022793203479</PinX>
+						<PinY Unit="MM">9.417598032035651</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/norwegian-moose-management/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/norwegian-moose-management/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="516" UniqueID="{DC998136-0583-4A8D-85E2-9C4E9D4370CA}" Name="Ellipse.516" NameU="Ellipse.516" Master="2">
+					<Text>County municipality</Text>
+					<XForm>
+						<PinX Unit="MM">3.009837081720816</PinX>
+						<PinY Unit="MM">8.994503370056851</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/norwegian-moose-management/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/norwegian-moose-management/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="517" UniqueID="{5D0138A3-0437-42C8-A9B3-D908CBC7582B}" Name="Ellipse.517" NameU="Ellipse.517" Master="2">
+					<Text>Municipality</Text>
+					<XForm>
+						<PinX Unit="MM">3.010660487519544</PinX>
+						<PinY Unit="MM">8.621908019602994</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/norwegian-moose-management/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/norwegian-moose-management/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="519" UniqueID="{2963A21A-795F-4186-8CCB-9A6E880160B7}" Name="Dynamic connector.519" NameU="Dynamic connector.519" Master="4">
+					<XForm>
+						<PinX Unit="MM">4.153543307086613</PinX>
+						<PinY Unit="MM">8.256759444043311</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/hunters-and-jaktvald/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/hunters-and-jaktvald/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="521" UniqueID="{8E7B5BA1-54B8-417D-A0A5-86DE6FB5AE74}" Name="Ellipse.521" NameU="Ellipse.521" Master="2">
+					<Text>Monitoring</Text>
+					<XForm>
+						<PinX Unit="MM">5.282657193264648</PinX>
+						<PinY Unit="MM">12.314925023678640</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/monitoring-moose-populations/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/monitoring-moose-populations/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="522" UniqueID="{15341DC5-B033-42CD-BCAB-4C75CEF334E7}" Name="Dynamic connector.522" NameU="Dynamic connector.522" Master="4">
+					<XForm>
+						<PinX Unit="MM">4.148204866823702</PinX>
+						<PinY Unit="MM">10.640324485567939</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/monitoring-moose-populations/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/monitoring-moose-populations/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="523" UniqueID="{0995182E-4D06-4EA7-B0A3-3176DEAD407D}" Name="Ellipse.523" NameU="Ellipse.523" Master="2">
+					<Text>Hunting area</Text>
+					<XForm>
+						<PinX Unit="MM">3.008588378112168</PinX>
+						<PinY Unit="MM">8.234026948052634</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/norwegian-moose-management/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/norwegian-moose-management/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="525" UniqueID="{6ACA5053-C0F0-4721-B0E7-1B75574E3F08}" Name="Dynamic connector.525" NameU="Dynamic connector.525" Master="4">
+					<XForm>
+						<PinX Unit="MM">4.860763934799593</PinX>
+						<PinY Unit="MM">10.196029447062170</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/monitoring-moose-populations/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/monitoring-moose-populations/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="526" UniqueID="{1E331EB6-9784-4E92-A820-6793A53E7636}" Name="Dynamic connector.526" NameU="Dynamic connector.526" Master="4">
+					<XForm>
+						<PinX Unit="MM">8.266734342834287</PinX>
+						<PinY Unit="MM">5.404605477333472</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>https://ecosystemmoose.com/bioenergy/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://ecosystemmoose.com/bioenergy/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="527" UniqueID="{FE5882F2-9898-4FB9-9CEB-40B5C10D21E6}" Name="Dynamic connector.527" NameU="Dynamic connector.527" Master="4">
+					<XForm>
+						<PinX Unit="MM">8.517862672377227</PinX>
+						<PinY Unit="MM">5.798306264735047</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/the-link-between-forests-and-timber-products/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/the-link-between-forests-and-timber-products/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="528" UniqueID="{80CDEB96-6CA0-46FB-BADE-0EC77C178E90}" Name="Dynamic connector.528" NameU="Dynamic connector.528" Master="4">
+					<XForm>
+						<PinX Unit="MM">5.146899007424376</PinX>
+						<PinY Unit="MM">5.112466378373126</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/how-trees-affect-human-well-being-health-and-recreational-use-of-the-forest/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/how-trees-affect-human-well-being-health-and-recreational-use-of-the-forest/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="530" UniqueID="{1694EC09-D81B-49ED-8687-F5BEC8D6A1ED}" Name="Dynamic connector.530" NameU="Dynamic connector.530" Master="4">
+					<XForm>
+						<PinX Unit="MM">6.585103361474073</PinX>
+						<PinY Unit="MM">6.773506875460472</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/how-forest-characteristics-including-food-availability-affect-moose/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/how-forest-characteristics-including-food-availability-affect-moose/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="532" UniqueID="{93394D8E-35D4-4CF8-99DE-49631283BAEE}" Name="Simple Arrow" NameU="Simple Arrow" Master="29">
+					<XForm>
+						<PinX Unit="MM">1.574803149606299</PinX>
+						<PinY Unit="MM">0.700751782553675</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>3</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="533" UniqueID="{8A94D23C-0009-406C-8047-1AE823EAEB24}" Name="Simple Arrow.533" NameU="Simple Arrow.533" Master="29">
+					<XForm>
+						<PinX Unit="MM">1.574803149606298</PinX>
+						<PinY Unit="MM">0.457521677286753</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>3</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="534" UniqueID="{6B56822B-967D-4A74-825A-8BAD94501F5B}" Name="Sheet.534" NameU="Sheet.534">
+					<Text>Positive (blue) and negative (red) associations. </Text>
+					<XForm>
+						<PinX Unit="MM">3.248031496062990</PinX>
+						<PinY Unit="MM">0.550002481055072</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>3</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="535" UniqueID="{4ACD56D0-27BA-42BA-8015-01756D9D341C}" Name="Dynamic connector.535" NameU="Dynamic connector.535" Master="4">
+					<XForm>
+						<PinX Unit="MM">5.802326255997485</PinX>
+						<PinY Unit="MM">4.775520601619198</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/how-trees-affect-biodiversity/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/how-trees-affect-biodiversity/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="536" UniqueID="{31265D68-0A9C-4FAE-B4ED-8C6162E95743}" Name="Rectangle.536" NameU="Rectangle.536" Master="2">
+					<Text>Climate change</Text>
+					<XForm>
+						<PinX Unit="MM">10.039370078740150</PinX>
+						<PinY Unit="MM">6.996062992125983</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/climate-change-and-its-impact-on-norwegian-boreal-forests/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/climate-change-and-its-impact-on-norwegian-boreal-forests/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="537" UniqueID="{287279E0-9251-433E-9841-F7DEC7953E5D}" Name="Dynamic connector.537" NameU="Dynamic connector.537" Master="4">
+					<XForm>
+						<PinX Unit="MM">8.809055107314855</PinX>
+						<PinY Unit="MM">6.868957437007136</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/climate-change-and-its-impact-on-norwegian-boreal-forests/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/climate-change-and-its-impact-on-norwegian-boreal-forests/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="538" UniqueID="{03DED56C-71C5-49CE-9AC9-67B9A231B54E}" Name="Ellipse.538" NameU="Ellipse.538" Master="2">
+					<Text>Ministry of Agriculture and Food</Text>
+					<XForm>
+						<PinX Unit="MM">3.033671777869864</PinX>
+						<PinY Unit="MM">9.937422216035206</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/norwegian-moose-management/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/norwegian-moose-management/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="539" UniqueID="{E81BB6BF-EAAB-45DA-BE50-43666A538A7D}" Name="Ellipse.539" NameU="Ellipse.539" Master="2">
+					<Text>County governor</Text>
+					<XForm>
+						<PinX Unit="MM">10.391007045171991</PinX>
+						<PinY Unit="MM">9.204098618291418</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/forest-management/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/forest-management/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="542" UniqueID="{356CF425-8D8E-4508-A638-2367D3CEB6CB}" Name="Dynamic connector.542" NameU="Dynamic connector.542" Master="4">
+					<XForm>
+						<PinX Unit="MM">2.061650692833678</PinX>
+						<PinY Unit="MM">9.299466805784512</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/ngos/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/ngos/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="543" UniqueID="{2882AF58-3C62-4A7C-B5C5-9AF8276FC2E6}" Name="Sheet.543" NameU="Sheet.543">
+					<Text>Thick lines = high certainty
+Thin lines = uncertain, either due to lack of data or the ignorance of the authors.
+(Black lines and dotted lines are all the same width)</Text>
+					<XForm>
+						<PinX Unit="MM">8.129921259842519</PinX>
+						<PinY Unit="MM">0.555946874137148</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>3</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="544" UniqueID="{7639A8A7-AE3A-479E-A621-FEB6D4FD3C70}" Name="Simple Arrow.544" NameU="Simple Arrow.544" Master="29">
+					<XForm>
+						<PinX Unit="MM">4.291338582677161</PinX>
+						<PinY Unit="MM">0.752797267837935</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>3</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="545" UniqueID="{5085262C-102A-44D6-A845-D5DB8C53DB52}" Name="Simple Arrow.545" NameU="Simple Arrow.545" Master="29">
+					<XForm>
+						<PinX Unit="MM">4.291338582677161</PinX>
+						<PinY Unit="MM">0.457521677286753</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>3</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="546" UniqueID="{DFB5BD0F-3089-46FF-90B1-FB4DE17401BF}" Name="Rectangle.546" NameU="Rectangle.546" Master="2">
+					<Text>Pests and disease</Text>
+					<XForm>
+						<PinX Unit="MM">10.187007874015739</PinX>
+						<PinY Unit="MM">6.618939000121404</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/pests-and-diseases-on-norway-spruce/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/pests-and-diseases-on-norway-spruce/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="547" UniqueID="{ADC0D342-BAE9-414F-8364-8458E06CAD99}" Name="Dynamic connector.547" NameU="Dynamic connector.547" Master="4">
+					<XForm>
+						<PinX Unit="MM">8.809055107314855</PinX>
+						<PinY Unit="MM">6.597548702494613</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/pests-and-diseases-on-norway-spruce/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/pests-and-diseases-on-norway-spruce/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="549" UniqueID="{7BEA14D7-08C8-4EE3-8402-08AF99280827}" Name="Circle.549" NameU="Circle.549" Master="40">
+					<Text>5</Text>
+					<XForm>
+						<PinX Unit="MM">9.599046829672606</PinX>
+						<PinY Unit="MM">4.721449292522640</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="550" UniqueID="{7C68393D-1B89-46CE-9FBF-F22F57ADA26D}" Name="Circle.550" NameU="Circle.550" Master="40">
+					<Text>2</Text>
+					<XForm>
+						<PinX Unit="MM">3.824521934758155</PinX>
+						<PinY Unit="MM">4.043307086614174</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="551" UniqueID="{3F14AF66-087A-48F7-8EAB-B7616FE927FB}" Name="Circle.551" NameU="Circle.551" Master="40">
+					<Text>3</Text>
+					<XForm>
+						<PinX Unit="MM">5.596175478065241</PinX>
+						<PinY Unit="MM">4.541619797525309</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="552" UniqueID="{43DED9E4-B9C7-4A99-B3D7-9398928EDF27}" Name="Circle.552" NameU="Circle.552" Master="40">
+					<Text>1</Text>
+					<XForm>
+						<PinX Unit="MM">8.070866141732282</PinX>
+						<PinY Unit="MM">7.151471197679229</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="553" UniqueID="{005E72B6-F2AD-40CE-8997-F7DFF9A9437E}" Name="Circle.553" NameU="Circle.553" Master="40">
+					<Text>7</Text>
+					<XForm>
+						<PinX Unit="MM">7.283464566929133</PinX>
+						<PinY Unit="MM">10.398466559176519</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="554" UniqueID="{E702BF54-3F2F-4BE5-AE77-CB37B6A834A4}" Name="Circle.554" NameU="Circle.554" Master="40">
+					<Text>6</Text>
+					<XForm>
+						<PinX Unit="MM">7.418151678408621</PinX>
+						<PinY Unit="MM">7.563820889885181</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="556" UniqueID="{72AF8455-53C4-4371-B46A-EEBC9CD28A75}" Name="Circle.556" NameU="Circle.556" Master="40">
+					<Text>9</Text>
+					<XForm>
+						<PinX Unit="MM">6.496062992125984</PinX>
+						<PinY Unit="MM">10.696850393700791</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="557" UniqueID="{CFD949F8-7733-4746-B665-3E1EF8715389}" Name="Circle.557" NameU="Circle.557" Master="40">
+					<Text>10</Text>
+					<XForm>
+						<PinX Unit="MM">7.761529808773902</PinX>
+						<PinY Unit="MM">9.358267716535432</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="558" UniqueID="{A37EBB58-50F9-4344-897E-CC7B882B2937}" Name="Ellipse.558" NameU="Ellipse.558" Master="2">
+					<Text>Ministry of Agriculture and Food</Text>
+					<XForm>
+						<PinX Unit="MM">11.035961974146440</PinX>
+						<PinY Unit="MM">9.832521677286755</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/forest-management/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/forest-management/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="559" UniqueID="{834B4E1F-2767-4B5C-B365-3E9182B22B2F}" Name="Ellipse.559" NameU="Ellipse.559" Master="2">
+					<Text>The Norweg. Agriculture Agency</Text>
+					<XForm>
+						<PinX Unit="MM">11.639049417163420</PinX>
+						<PinY Unit="MM">9.217364196971795</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/forest-management/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/forest-management/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="560" UniqueID="{53A52CE4-DE36-4891-A4FE-A2F9BBC3B303}" Name="Ellipse.560" NameU="Ellipse.560" Master="2">
+					<Text>Municipality</Text>
+					<XForm>
+						<PinX Unit="MM">11.035961974146440</PinX>
+						<PinY Unit="MM">8.577600417444236</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://ecosystemmoose.com/forest-management/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://ecosystemmoose.com/forest-management/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="579" UniqueID="{517A91B7-B306-49AD-B06A-2EB1BD0D6111}" Name="Circle.579" NameU="Circle.579" Master="40">
+					<Text>4</Text>
+					<XForm>
+						<PinX Unit="MM">8.352080989876264</PinX>
+						<PinY Unit="MM">7.980314960629919</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="581" UniqueID="{9A471D4B-84F7-444A-B79B-E4F6FDD07E27}" Name="Circle.581" NameU="Circle.581" Master="40">
+					<Text>11</Text>
+					<XForm>
+						<PinX Unit="MM">5.511811023622045</PinX>
+						<PinY Unit="MM">7.691226096737907</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="582" UniqueID="{0AC39FB2-7DA2-4309-877A-8D03DB804DB3}" Name="Circle.582" NameU="Circle.582" Master="40">
+					<Text>12</Text>
+					<XForm>
+						<PinX Unit="MM">4.330708661417321</PinX>
+						<PinY Unit="MM">5.224409448818896</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="583" UniqueID="{8CB33107-A3BE-4EB4-83DD-8FEF19F80839}" Name="Circle.583" NameU="Circle.583" Master="40">
+					<Text>13</Text>
+					<XForm>
+						<PinX Unit="MM">5.708661417322832</PinX>
+						<PinY Unit="MM">8.767716535433070</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="584" UniqueID="{8C7317AC-5356-4DA1-B729-79795050B3C1}" Name="Circle.584" NameU="Circle.584" Master="40">
+					<Text>14</Text>
+					<XForm>
+						<PinX Unit="MM">9.055118110236219</PinX>
+						<PinY Unit="MM">3.452755905511808</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="585" UniqueID="{047DBF02-C397-453F-9A90-D08B852A4AC9}" Name="Circle.585" NameU="Circle.585" Master="40">
+					<Text>15</Text>
+					<XForm>
+						<PinX Unit="MM">3.346456692913384</PinX>
+						<PinY Unit="MM">5.027559055118108</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="586" UniqueID="{3D4F070F-6B85-4D4D-A590-065A6FC6AC14}" Name="Circle.586" NameU="Circle.586" Master="40">
+					<Text>16</Text>
+					<XForm>
+						<PinX Unit="MM">4.921259842519682</PinX>
+						<PinY Unit="MM">6.405511811023620</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="587" UniqueID="{DF2436D4-6EBA-4E10-886B-1D77208B1ADF}" Name="Circle.587" NameU="Circle.587" Master="40">
+					<Text>17</Text>
+					<XForm>
+						<PinX Unit="MM">2.474690663667045</PinX>
+						<PinY Unit="MM">7.192913385826770</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="588" UniqueID="{2760022E-26B3-4592-9A1E-7481DEA45CDC}" Name="Circle.588" NameU="Circle.588" Master="40">
+					<Text>18</Text>
+					<XForm>
+						<PinX Unit="MM">6.678852643419569</PinX>
+						<PinY Unit="MM">6.953880764904373</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="589" UniqueID="{645604FC-1BE1-4583-A1F2-19A080705899}" Name="Circle.589" NameU="Circle.589" Master="40">
+					<Text>19</Text>
+					<XForm>
+						<PinX Unit="MM">6.510123734533181</PinX>
+						<PinY Unit="MM">6.433633295838014</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="590" UniqueID="{F85D1A9F-31CE-49BC-90FE-DC5FA22F8F0F}" Name="Circle.590" NameU="Circle.590" Master="40">
+					<Text>20</Text>
+					<XForm>
+						<PinX Unit="MM">5.708661417322833</PinX>
+						<PinY Unit="MM">3.754218222722159</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="591" UniqueID="{CD87A7BD-E15B-4CF1-846D-AD8047BC0C3A}" Name="Circle.591" NameU="Circle.591" Master="40">
+					<Text>21</Text>
+					<XForm>
+						<PinX Unit="MM">8.028683914510683</PinX>
+						<PinY Unit="MM">4.633858267716535</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="592" UniqueID="{43177BCA-8CD0-45D5-88C2-0EECC0F3119D}" Name="Circle.592" NameU="Circle.592" Master="40">
+					<Text>22</Text>
+					<XForm>
+						<PinX Unit="MM">3.543307086614171</PinX>
+						<PinY Unit="MM">5.814960629921259</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="593" UniqueID="{C4E2B118-9324-4B01-BC69-87F1CAF91CF8}" Name="Circle.593" NameU="Circle.593" Master="40">
+					<Text>23</Text>
+					<XForm>
+						<PinX Unit="MM">7.424071991001120</PinX>
+						<PinY Unit="MM">5.618110236220471</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="594" UniqueID="{C7E0CA3D-E276-48A7-A0A9-571D258B7DA2}" Name="Circle.594" NameU="Circle.594" Master="40">
+					<Text>24</Text>
+					<XForm>
+						<PinX Unit="MM">2.460629921259840</PinX>
+						<PinY Unit="MM">8.022497187851510</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="596" UniqueID="{DA6A6117-28FB-482C-8389-99EF7EFD4708}" Name="Circle.596" NameU="Circle.596" Master="40">
+					<Text>25</Text>
+					<XForm>
+						<PinX Unit="MM">6.931946006749159</PinX>
+						<PinY Unit="MM">12.443757030371160</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="597" UniqueID="{3328CC32-8DA2-49F0-9081-40D3ED51B702}" Name="Circle.597" NameU="Circle.597" Master="40">
+					<Text>26</Text>
+					<XForm>
+						<PinX Unit="MM">2.938695163104612</PinX>
+						<PinY Unit="MM">11.079865016872890</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="598" UniqueID="{278A62DD-90D8-42CC-B72E-28EB2F3B1E9D}" Name="Circle.598" NameU="Circle.598" Master="40">
+					<Text>1</Text>
+					<XForm>
+						<PinX Unit="MM">8.070866141732282</PinX>
+						<PinY Unit="MM">1.303149606299204</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="599" UniqueID="{656540F3-0722-49AB-9922-0A88E9CE4906}" Name="Sheet.599" NameU="Sheet.599">
+					<Text>Numbers are refered to in the text</Text>
+					<XForm>
+						<PinX Unit="MM">9.744094488188974</PinX>
+						<PinY Unit="MM">1.273340832395949</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="601" UniqueID="{EFE76376-E9A5-495A-AF65-FCFA5E9FF794}" Name="Sheet.601" NameU="Sheet.601">
+					<XForm>
+						<PinX Unit="MM">6.397637795275588</PinX>
+						<PinY Unit="MM">0.893700787401575</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>3</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="555" UniqueID="{CBAEE6C1-959A-4F20-912B-377263D232A2}" Name="Circle.555" NameU="Circle.555" Master="40">
+					<Text>8</Text>
+					<XForm>
+						<PinX Unit="MM">10.433070866141730</PinX>
+						<PinY Unit="MM">8.255905511811026</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="605" UniqueID="{415EBC9E-379C-40DD-A3D8-C022D800DB4C}" Name="Sheet.605" NameU="Sheet.605">
+					<XForm>
+						<PinX Unit="MM">4.007969991895723</PinX>
+						<PinY Unit="MM">7.039903768305356</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>2</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="612" UniqueID="{EC0B0CB7-02EA-468C-9B7D-C957B826CC87}" Name="Sheet.612" NameU="Sheet.612">
+					<XForm>
+						<PinX Unit="MM">6.412208129051433</PinX>
+						<PinY Unit="MM">4.846591297820822</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>2</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="614" UniqueID="{36FE8CDC-E076-4454-BE25-A0357BE0E678}" Name="Sheet.614" NameU="Sheet.614">
+					<XForm>
+						<PinX Unit="MM">5.932920132331384</PinX>
+						<PinY Unit="MM">4.255588920294650</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>2</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="616" UniqueID="{C084B984-8570-4B2F-B985-CF897EA5E0E5}" Name="Sheet.616" NameU="Sheet.616">
+					<XForm>
+						<PinX Unit="MM">4.518714562057767</PinX>
+						<PinY Unit="MM">4.225529995009983</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>2</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="617" UniqueID="{D5995CFF-ABDC-41E7-A7DA-359822975F96}" Name="Sheet.617" NameU="Sheet.617">
+					<XForm>
+						<PinX Unit="MM">8.057589388916000</PinX>
+						<PinY Unit="MM">6.901319616997174</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>2</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="619" UniqueID="{2FC8F62A-40B0-4B75-9F06-198232A7A4FB}" Name="Sheet.619" NameU="Sheet.619">
+					<XForm>
+						<PinX Unit="MM">7.703410302079419</PinX>
+						<PinY Unit="MM">7.348062103471710</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>2</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="623" UniqueID="{2AE846E6-AB0B-4B2A-B453-F34D64D85B17}" Name="Sheet.623" NameU="Sheet.623">
+					<XForm>
+						<PinX Unit="MM">6.618385204555432</PinX>
+						<PinY Unit="MM">8.272795702731479</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>2</LayerMember>
+					</LayerMem>
+				</Shape>
+			</Shapes>
+		</Page>
+	</Pages>
+</VisioDocument>

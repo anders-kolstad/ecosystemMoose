@@ -1,0 +1,61 @@
+--- 
+title: "ecosystemMoose"
+author: "Anders L. KOlstad"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output:
+  bookdown::tufte_html_book:
+    toc: true
+    css: toc.css
+  tufte::tufte_html: default
+  tufte::tufte_book:
+    citation_package: natbib
+    latex_engine: xelatex
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  ....
+link-citations: yes
+---
+
+# About
+
+```{r, include=FALSE, message=FALSE}
+library(knitr)
+library(tufte)
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+EcosystemMoose is an interdisciplinary project to collate, compress and communicate knowledge (both scientific and experience-based) concerning moose and boreal forests in Norway, how they underlie many of the benefits we receive from nature, and how they are managed. The web page has three main features: a knowledge map, the specific management problems, and the future scenarios.
+
+```{r}
+htmltools::includeHTML("html/home090919b.htm")
+```
+
+Figure text: The Knowledge Map serves as an information database that feed into and aids the interpretation of more specific management problems and discursive scenarios. User/stakeholder feedback is facilitated via commentary fields and will guide and inform the continous updating of the Knowledge Map.
+
+The Knowledge Map is a constantly evolving and growing structural database of information. Here we attempt to summarise what we know about the complex social-ecological system based around moose in Norwegian boreal forests, including diverse information originating from quantitative and qualitative methods, and also including the all so important social and economic aspects of sustainable resource management. The map is interactive so that users can click on elements that they wish to learn more about, and there is the opportunity here, as in all other facets of the website, for users to comment, criticise, or add missing information. The map also identifies knowledge gaps and areas of high uncertainty to help guide future research. We view the map as both an explanatory (explaining the delivery and production of nature contributions to peoples NCPs) and an output variable (new knowledge about the structure underlying NCP production).
+
+ 
+
+‘Management problems’, in this setting, are example cases from moose management in Norway. They come either from our perception of the real word, OR they are put together to simply illustrate a point we wish to make. The information underpinning each case comes from the knowledge map. Management problems give more specific cases than what the map is able to show, and provide more detail on some aspects, such as the linkages from NCPs back to the beneficiaries. More management problems exist than we are able to describe, and so we focus on those we find most illustrative or those that we have sufficient scientific knowledge to say anything about. We acknowledge that different people and stakeholders may have contrasting views concerning the salience of these problems and the credibility of our interpretation of them, and so a vital aspect of the Management problems feature is the iterative re-analysis of them based in the feedback from stakeholders. Each case is therefore associated with a possibility for comments from the general public.
+
+ 
+
+The Scenarios are qualitative representations of the future for the Norwegian social-ecological moose-forest system given the density of moose and the intensiveness of our forestry activities. Four example futures are shown and there is an attempt to quantify the well-being for five key interest groups. We believe it is important to show that all futures have both winners and losers in society.
+
+ 
+
+Particpate
+
+Each page on this site has a comment field at the bottom where you can give feedback and constructive criticism. This is an important aspect of the knowledge system as it fascilitates wide participation and the co-production of knowledge. Read more about that here. 
+
+You might have an opinion on some of these points for example:
+
+What type of questions would you like this project to try to answer?
+Have we missed a key reference in one of the sumaries?
+Have we missed an arrow or a box in the knowledge map?
+Whould you have drawn the map differently?
+…
